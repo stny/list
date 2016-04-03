@@ -1,0 +1,73 @@
+- Apple
+- Apricot
+- Avocado
+- Banana
+- Bilberry
+- Blackberry
+- Blackcurrant
+- Blueberry
+- Boysenberry
+- Cantaloupe
+- Currant
+- Cherry
+- Cherimoya
+- Cloudberry
+- Coconut
+- Cranberry
+- Damson
+- Date
+- Dragonfruit
+- Durian
+- Elderberry
+- Feijoa
+- Fig
+- Goji berry
+- Gooseberry
+- Grape
+- Grapefruit
+- Guava
+- Huckleberry
+- Jabuticaba
+- Jackfruit
+- Jambul
+- Jujube
+- Juniper berry
+- Kiwifruit
+- Kumquat
+- Lemon
+- Lime
+- Loquat
+- Lychee
+- Mango
+- Marionberry
+- Melon
+- Miracle fruit
+- Mulberry
+- Nectarine
+- Nance
+- Olive
+- Orange
+- Papaya
+- Passionfruit
+- Peach
+- Pear
+- Persimmon
+- Physalis
+- Plantain
+- Plum/prune (dried plum)
+- Pineapple
+- Pomegranate
+- Pomelo
+- Purple mangosteen
+- Quince
+- Raspberry
+- Rambutan
+- Redcurrant
+- Salal berry
+- Salak
+- Satsuma
+- Star fruit
+- Strawberry
+- Tamarillo
+- Tamarind
+- Ugli fruit
